@@ -136,7 +136,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
+    padding: 100px 0px 0px 0px;
     text-align: center;
     /* background: url(../img/intro-bg.jpg) no-repeat bottom center scroll; */
     -webkit-background-size: cover;
@@ -160,8 +160,8 @@ a:focus {
 
 @media(min-width:767px) {
     .intro {
-        height: 100%;
-        padding: 0;
+        height: 50%;
+        padding: 100px 0px 0px 0px;
     }
 
     .intro .intro-body .brand-heading {
@@ -248,7 +248,7 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .download-section {
@@ -271,7 +271,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        /* padding-top: 250px; */
     }
 
     .download-section {
@@ -375,4 +375,13 @@ body {
 
 #validation{
 	color: red;
+}
+
+.donate{
+	display: inline-block;
+	border: 1px solid rgb(32, 72, 140);
+	margin: 10px;
+	width: 250px;
+	height: 90px;
+	overflow: hidden;
 }
