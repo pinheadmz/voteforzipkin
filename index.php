@@ -202,6 +202,27 @@
         </div>
     </section>
 
+  <!-- Platform Section -->
+    <section id="endorsements" class="content-section text-left">
+        <div class="download-section">
+            <div class="container-fluid">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2>Endorsements:</h2>
+					<?
+						$sponsors = file("sponsors.txt");
+						foreach ($sponsors as $sp){
+							echo $sp . "<br>";
+						}
+					
+					
+					
+					?>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer>
         <div class="container-fluid text-center">
