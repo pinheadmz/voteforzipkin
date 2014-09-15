@@ -127,7 +127,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Support Chuck Zipkin <br>for Hospital Board</h2>
-                <p>Yes, I want to support Chuck Zipkin for Hospital Board!<br>Three ways to donate to the campaign:</p>
+                <p>Yes, I want to support Chuck Zipkin for Hospital Board!<br>Two ways to donate to the campaign:</p>
 			</div>
 		</div>
 		 <div class="row">
@@ -141,11 +141,13 @@
 					<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 					</form>
 				</div>
+            	<? /* 
             	<div class="donate">
 					Bitcoin:<br>
 					<a class="coinbase-button" data-code="39ee6c12d2eb82af571b36d18cc975f5" data-button-style="donation_large" href="https://coinbase.com/checkouts/39ee6c12d2eb82af571b36d18cc975f5">Donate Bitcoins</a>
 					<script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
 				</div>
+            	*/ ?>
             	<div class="donate">
 					 Mail a check:<br>
 					 <a href="checkform.html" target="_blank"><br>Click here for mail-in form</a>
