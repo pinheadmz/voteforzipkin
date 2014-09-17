@@ -191,7 +191,7 @@
 				<div id="success"><p>Thank you for your support!</p></div>
 				<div id="validation"><p>Please make sure you have entered your name and email address correctly</p></div>
 				<br>
-                <p>Contact us at <a href="mailto:chuckzipkin@gmail.com">ChuckZipkin@gmail.com</a> to learn about other ways you can support the campaign.</p>
+				<p>Contact <a href="mailto:chuckzipkin@gmail.com">ChuckZipkin@gmail.com</a> to add your name to his endorsement list,<br>and to learn about other ways you can support his campaign.</p>
 				<div style="display:inline-block">
 					<p style="text-align:left">
 					<img src="i/crzlake.jpg" style="float:left;width:200px;margin-right:10px;">

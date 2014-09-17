@@ -12,7 +12,7 @@
 
 ?>
 <form action="edit.php" method="POST">
-	<textarea style="width:200px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
+	<textarea style="width:500px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
 	<br>
 	Password: 
 	<input type="password" name="password">

@@ -57,6 +57,12 @@ a:focus {
     color: #11505d;
 }
 
+.download-section a:hover,
+.download-section a:focus {
+    text-decoration: none;
+    color: white;
+}
+
 .light {
     font-weight: 400;
 }
