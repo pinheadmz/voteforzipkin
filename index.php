@@ -157,7 +157,7 @@
 		<div class="row">
             <div class="col-lg-8 col-lg-offset-2">
             	<br>
-           		<p>For more information on the Committee to Elect Chuck Zipkin submit the form below:</p>
+           		<p>For more information on the Committee to Elect Chuck Zipkin, please submit the form below:</p>
             
 				<form id="form" role="form">
 					<div class="form-group">
