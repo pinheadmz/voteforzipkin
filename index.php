@@ -20,7 +20,7 @@
 	<meta property="og:image" content="http://www.VoteForZipkin.com/i/sign.jpg" />
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="500">
-	<meta property="og:image:height" content="100">
+	<meta property="og:image:height" content="375">
 	<meta property="og:description" content="Chuck Zipkin for Hospital Borde" />
 
     <title>Chuck Zipkin for Hospital Board</title>
