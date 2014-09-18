@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta name="description" content="Chuck Zipkin for Hospital Board">
-    <meta name="author" content="Chuck Zipkin, MD">
+    <meta property="author" content="Chuck Zipkin, MD">
 	<link rel="icon" type="image/png" href="i/z.png">
 	
 	<!-- Twitter  Card data -->
