@@ -6,21 +6,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="description" content="Charles Zipkin for Hospital Board">
-    <meta name="author" content="Charles Zipkin MD">
+    <meta name="description" content="Chuck Zipkin for Hospital Board">
+    <meta name="author" content="Chuck Zipkin, MD">
 	<link rel="icon" type="image/png" href="i/z.png">
 	
 	<!-- Twitter  Card data -->
 	<!-- <meta name="twitter:card" value="summary"> -->
 
 	<!-- Open Graph data -->
-	<meta property="og:title" content="Charles Zipkin for Hospital Board" />
+	<meta property="og:title" content="Chuck Zipkin for Hospital Board" />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content="http://www.VoteForZipkin.com/" />
 	<meta property="og:image" content="http://www.VoteForZipkin.com/i/sign.jpg" />
-	<meta property="og:description" content="Charles Zipkin for Hospital Boarde" />
+	<meta property="og:description" content="Chuck Zipkin for Hospital Borde" />
 
-    <title>Charles Zipkin for Hospital Board</title>
+    <title>Chuck Zipkin for Hospital Board</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -102,7 +102,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About Chuck Zipkin</h2>
-				<img src="i/crz4.jpg" style="float:left;width:300px;margin:15px">
+				<img src="i/crz4.jpg" style="float:left;width:250px;margin:15px">
 					<p>Chuck Zipkin practiced medicine in the Bay Area for 35 years, where he served as the hospital’s chief of medicine and chair of the Quality Assurance Committee. He built and managed the first free-standing endoscopy center and introduced new technologies in gastroenterology to the area. Upon becoming a full-time resident in Truckee, he continued his practice of medicine at Tahoe Forest Hospital for 5 years and worked as medical director of the local hospice program.</p>
 					<p>Since retiring from practice, Zipkin has continued to give back to the medical community as chair of medical education for the hospital staff and medical students. He also works as medical director for the Community Health and Wellness Program, delivering 21st century health care to the people of our region, and is responsible for the annual Colon Cancer Awareness Month educational program.</p>
 					<p>Previously, Chuck was an associate professor of medicine at The University of California at San Francisco, where he completed his training in gastroenterology. Prior to serving in the United States Air Force, he earned a BS from The University of California at Berkeley and an MD from The University of California at Irvine. He and his wife, Janet, share a passion for community service and have been volunteers for the Truckee Donner Land Trust, Truckee River Watershed Council, Sierra College’s lecture series, Tahoe Forest Hospital, Tahoe Donner Association, and support several other worthy local non-profits. They and their 5 children have enjoyed all the advantages of this beautiful place since they first owned property in Truckee in 1984.</p>
@@ -157,7 +157,7 @@
 		<div class="row">
             <div class="col-lg-8 col-lg-offset-2">
             	<br>
-           		<p>For more information on the Committee to Elect Chuck Zipkin, submit the form below:</p>
+           		<p>For more information on the Committee to Elect Chuck Zipkin submit the form below:</p>
             
 				<form id="form" role="form">
 					<div class="form-group">
@@ -243,6 +243,18 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>
+
+	<!-- Google Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-54948015-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
 
 </body>
 

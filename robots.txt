@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: edit.php
+Disallow: checkform.html
+Disallow: support.php
