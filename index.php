@@ -72,6 +72,9 @@
                     <li>
                         <a class="page-scroll" href="#support">Support</a>
                     </li>
+                    <li>
+                        <a class="page-scroll" href="#endorsements">Endorsements</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -211,16 +214,31 @@
     <section id="endorsements" class="content-section text-left">
         <div class="download-section">
             <div class="container-fluid">
-                <div class="col-lg-8 col-lg-offset-2">
+				<div class="row"> 
+                <div class="col-lg-8 col-lg-offset-1">
                     <h2>Endorsements:</h2>
+                </div>
+                </div>
+
 					<?
+						$i = 1;
 						$sponsors = file("sponsors.txt");
 						foreach ($sponsors as $sp){
+							if ($i == 1){
+								echo '<div class="names col-sm-2 col-sm-offset-1">';
+							}
+							
 							echo $sp . "<br>";
+							
+							if ($i == 5){
+								echo '</div><!-- names -->';
+								$i = 1;
+							} else {
+								$i++;
+							}
 						}
-					
-					
-					
+						if ($i != 1)
+							echo '</div><!-- names lt5 -->';
 					?>
 
                 </div>
@@ -231,7 +249,7 @@
     <!-- Footer -->
     <footer>
         <div class="container-fluid text-center">
-            <p>Copyright &copy; 2014 Committee to Elect Chuck Zipkin</p>
+            <p>Paid for by The Committee to Elect Chuck Zipkin</p>
         </div>
     </footer>
 
