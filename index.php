@@ -215,24 +215,33 @@
         <div class="download-section">
             <div class="container-fluid">
 				<div class="row"> 
-                <div class="col-lg-8 col-lg-offset-1">
+                <div class="col-lg-8 col-sm-offset-2">
                     <h2>Endorsements:</h2>
                 </div>
                 </div>
 
 					<?
 						$i = 1;
+						$cols = 0;
 						$sponsors = file("sponsors.txt");
 						foreach ($sponsors as $sp){
-							if ($i == 1){
-								echo '<div class="names col-sm-2 col-sm-offset-1">';
+							if ($cols == 0){
+								echo '<div class="names col-sm-2"></div>';
+								$cols++;
 							}
+							
+							if ($i == 1)
+								echo '<div class="names col-sm-2">';
 							
 							echo $sp . "<br>";
 							
-							if ($i == 5){
+							if ($i == 40){
 								echo '</div><!-- names -->';
 								$i = 1;
+								$cols++;
+								if ($cols == 6)
+									$cols = 0;								
+								
 							} else {
 								$i++;
 							}
@@ -249,7 +258,7 @@
     <!-- Footer -->
     <footer>
         <div class="container-fluid text-center">
-            <p>Paid for by The Committee to Elect Chuck Zipkin</p>
+            <p>Paid for by the Committee to Elect Chuck Zipkin Board of Directors 2014</p>
         </div>
     </footer>
 
