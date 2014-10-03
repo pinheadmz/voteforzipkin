@@ -258,7 +258,7 @@
     <!-- Footer -->
     <footer>
         <div class="container-fluid text-center">
-            <p>Paid for by the Committee to Elect Chuck Zipkin Board of Directors 2014</p>
+            <p>Paid for by the Committee to Elect Chuck Zipkin Board of Directors 2014<br>FPPC# 1371801</p>
         </div>
     </footer>
 
