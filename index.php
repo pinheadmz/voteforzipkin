@@ -50,6 +50,15 @@
     <!-- Navigation -->
     <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container-fluid">
+        <a href="https://www.facebook.com/votechuckzipkinhospitalboard" target="_blank"><img src="i/fb.png" style="margin-top:5px;float:left;margin-left:10px"></a>
+        	
+    	<iframe style="	float:left;
+           					border:none;
+           					height:25px;
+           					width:100px;
+           					margin-top:10px;
+           					margin-left:10px;" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fvotechuckzipkinhospitalboard&width&layout=button&action=like&show_faces=false&share=true&height=80&appId=329024557158404"></iframe>
+        	
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
@@ -124,6 +133,31 @@
                     <h2>Candidate's Statement</h2>
                     <p>As a hospital director, I will bring an understanding of medical management, trust in administrative transparency, and passion for giving back to our community. I understand the complexity of a modern rural hospital and the needs of the community we serve. The next few years will bring new challenges in medicine and changes in medical economics, and we will need a flexible approach. After 35 years of managing a private gastroenterology practice in the Bay Area, I practiced gastroenterology in Truckee for 5 years and served as medical director of Tahoe Forest Hospice. I currently serve as medical director for the Wellness Neighborhood/Community Health initiative of Tahoe Forest Hospital, and chair the continuing medical education committee for the medical staff. Transparency in hospital planning, community participation, and independent thinking by the directors are necessary for critical oversight of the hospital administration. I will be an independent voice on the board of directors; and I will ensure that our medical personnel receive the tools and support they need to protect the high quality of care we enjoy in the district. </p>
                 </div>
+                <div class="col-lg-4 col-lg-offset-2">
+					<h2>The Issues:</h2>
+					<p>
+					Keep the ER open 24/7<br>
+					Don’t let them close Obstetrics<br>
+					Keep cancer care local<br>
+					Help those in financial need<br>
+					Protect our doctors<br>
+					Save Tahoe Forest Hospital!<br>
+					</p>
+				</div>
+				 <div class="col-lg-4">
+					<h2>Chuck Zipkin is committed to:</h2>
+					<p>
+					&bull;&nbsp;Our community’s health needs<br>
+					&bull;&nbsp;Medical staff needs<br>
+					&bull;&nbsp;21st Century Medicine<br>
+					&bull;&nbsp;Partnering with the community for input<br>
+					&bull;&nbsp;Providing oversight on the board<br>
+					&bull;&nbsp;Critically reviewing contracts<br>
+					&bull;&nbsp;Ensuring cost effectiveness and continued value<br>
+					&bull;&nbsp;Loyalty ONLY to the health needs of the community!
+					</p>
+				</div>
+
             </div>
         </div>
     </section>
