@@ -288,7 +288,7 @@ This election is about the continued operation of an outstanding hospital that p
 			<div class="container-fluid">
 				<div class="row"> 
 					<div class="col-lg-8 col-sm-offset-2">
-						<h2>Read what your friends, neighbors and colleagues are saying about Chuck Zipkin...</h2>
+						<h2>Read what your friends, neighbors and colleagues are saying...</h2>
 					</div>
                 </div><!-- row -->
 
