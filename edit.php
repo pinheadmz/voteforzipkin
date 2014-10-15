@@ -15,10 +15,10 @@
 ?>
 <form action="edit.php" method="POST">
 	<h1> SPONSORS: </H1>
-	<textarea style="width:900px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
+	<textarea style="width:1000px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
 	<br>
 	<H1> ENDORSEMENTS: </H1>
-	<textarea style="width:900px;height:300px;" name="endorsements"><?= $endorsements ?></textarea>
+	<textarea style="width:1000px;height:300px;" name="endorsements"><?= $endorsements ?></textarea>
 	<br>
 	Password: 
 	<input type="password" name="password">
