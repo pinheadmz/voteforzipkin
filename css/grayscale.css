@@ -57,10 +57,14 @@ a:focus {
     color: #11505d;
 }
 
+.download-section a{
+	color: white;
+	text-decoration: underline;
+}
+
 .download-section a:hover,
 .download-section a:focus {
-    text-decoration: none;
-    color: white;
+    color: #219ab3;
 }
 
 .light {

@@ -131,33 +131,32 @@
             <div class="container-fluid">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>Candidate's Statement</h2>
-                    <p>As a hospital director, I will bring an understanding of medical management, trust in administrative transparency, and passion for giving back to our community. I understand the complexity of a modern rural hospital and the needs of the community we serve. The next few years will bring new challenges in medicine and changes in medical economics, and we will need a flexible approach. After 35 years of managing a private gastroenterology practice in the Bay Area, I practiced gastroenterology in Truckee for 5 years and served as medical director of Tahoe Forest Hospice. I currently serve as medical director for the Wellness Neighborhood/Community Health initiative of Tahoe Forest Hospital, and chair the continuing medical education committee for the medical staff. Transparency in hospital planning, community participation, and independent thinking by the directors are necessary for critical oversight of the hospital administration. I will be an independent voice on the board of directors; and I will ensure that our medical personnel receive the tools and support they need to protect the high quality of care we enjoy in the district. </p>
-                </div>
-                <div class="col-lg-4 col-lg-offset-2">
-					<h2>The Issues:</h2>
-					<p>
-					Keep the ER open 24/7<br>
-					Don’t let them close Obstetrics<br>
-					Keep cancer care local<br>
-					Help those in financial need<br>
-					Protect our doctors<br>
-					Save Tahoe Forest Hospital!<br>
-					</p>
-				</div>
-				 <div class="col-lg-4">
-					<h2>Chuck Zipkin is committed to:</h2>
-					<p>
-					&bull;&nbsp;Our community’s health needs<br>
-					&bull;&nbsp;Medical staff needs<br>
-					&bull;&nbsp;21st Century Medicine<br>
-					&bull;&nbsp;Partnering with the community for input<br>
-					&bull;&nbsp;Providing oversight on the board<br>
-					&bull;&nbsp;Critically reviewing contracts<br>
-					&bull;&nbsp;Ensuring cost effectiveness and continued value<br>
-					&bull;&nbsp;Loyalty ONLY to the health needs of the community!
-					</p>
-				</div>
 
+<p>
+Don’t let the discussion of our community health needs be hijacked by controversy surrounding the CEO or the cost of an MRI. We have real health crises in our District and we need to have the Board focus on its primary responsibilities: keeping the health care system functioning at a high level to serve the needs of the population. Our outstanding doctors deal with serious medical problems every day. Particularly pressing is teen and adolescent suicide and self-injury, which is epidemic in Placer County. High rates of childhood obesity and diabetes result in lifelong health issues. Alcoholism and its complications are endemic throughout our community. These and other serious chronic diseases need preventive care to reduce frequent hospitalizations, and decrease costs. 
+Unfortunately, cancer will be a more common problem as our population ages and baby boomers retire to the District.  I want to know our patients will not need to go elsewhere for treatment should they need it at a time of personal crises.
+<br><br>
+<b>The Real Issue</b><br>
+The real issue in this election is this--do we want an acute care hospital in our district?  We do. While reaching out to the community to listen to your concerns, I heard key messages come through: keep our hospital open 24/7; continue needed services, especially obstetrics and the ER; and stay current with 21st century medicine.  Medical charges are high everywhere and some of our neighbors will choose to go to Tahoe Forest’s competitors to save money. This happens all across the country. Tahoe Forest cannot compete with free-standing centers on price. The hospital competes on convenience and quality, and does very well on both, winning awards and recognition nationally. Trying to compete on price is impossible and will lead to closure of services, most likely obstetrics and the Emergency Room, which lose money now. Do you want your daughter to have to go to Sacramento to deliver her baby? Don’t be misled, hospitals close all the time trying to compete on price. As you may be aware, Seton Hospital in Daly City and San Pablo Community Hospital are closing now for financial reasons. I have a plan to help our patients in financial need, and will fight for it when I am on the Board. 
+<br><br>
+<b>My Financial Plan</b><br>
+We can provide help in the billing office to adjust the bill and arrange payment programs for residents with financial need. We can assist in investigating insurance through Covered California Exchange to see if residents qualify for federal subsidies. We should educate patients that routine tests (mammograms and colonoscopies) now are done without co-pays or deductibles and can be done locally without charge to the patient. I would encourage the administration to strengthen our outreach for nicotine cessation, increase immunization rates, broaden the scope of education on diabetes and other preventative services to reduce medical bills. I pledge to critically review contracts and programs to be sure they remain cost effective and are of continued value to the community. I believe any CEO bonus should be based only on patient outcomes data, not the financial bottom line.
+<br><br>
+<b>Long Term Effects</b><br>
+We need to remember that the hospital employs over 700 people and is a major driver of our local economy. People moving here always ask the realtor two questions, “how good are the schools and how good is the local health care?” Losing money on each patient by competing on price with free-standing centers cannot be made up by increasing volume. Reducing charges for one patient means reducing them for all, resulting in a shortfall that can only result in job loss, a reduction in our bond rating and closure of services. Our tax base will suffer from lost wages and fewer home sales if the hospital fails, and the effect on local resorts would be significant.
+<br><br>
+<b>Transparency and Communication</b><br>
+I will encourage community input and comment. I will televise the meetings and avoid too frequent use of closed session. I will make it the Board’s job to make sure you know about programs that can lower your costs. I will be visible and engaged in community affairs and will hold informational meetings for the public so I can listen to your concerns, separate from the constraints of a regular Board Meeting. I will not be a rubber stamp on the Board. I will have an independent voice.
+<br><br>
+<b>My Service</b><br>
+I have practiced medicine for 40 years both here and in the Bay Area. I have been Medical Director of Hospice and Chair of Medical Education at Tahoe Forest Hospital.
+I am proud of, and passionate about, my role as Medical Director for Community Health and Wellness Neighborhood. I am an independent contractor to the district, not an employee, and am paid a small stipend to provide medical expertise to the Executive Director. I am paid from tax funds, not operations, and am responsible to the District tax payers, not the CEO. My allegiance is to the improved health of the people in the District where I live, and I intend to continue providing that when I am on the Board.
+<br><br>
+<b>Bottom Line</b><br>
+This election is about the continued operation of an outstanding hospital that provides excellent service to all of us. Put me on the Board!
+</p>
+
+                </div>
             </div>
         </div>
     </section>
@@ -246,13 +245,13 @@
 
   <!-- Platform Section -->
     <section id="endorsements" class="content-section text-left">
-        <div class="download-section">
-            <div class="container-fluid">
+		<div class="download-section">
+			<div class="container-fluid">
 				<div class="row"> 
-                <div class="col-lg-8 col-sm-offset-2">
-                    <h2>Endorsements:</h2>
-                </div>
-                </div>
+					<div class="col-lg-8 col-sm-offset-2">
+						<h2>Endorsements:</h2>
+					</div>
+                </div><!-- row -->
 
 					<?
 						$i = 1;
@@ -284,10 +283,48 @@
 							echo '</div><!-- names lt5 -->';
 					?>
 
-                </div>
-            </div>
-        </div>
-    </section>
+			</div><!-- container fluid -->
+            <br>
+			<div class="container-fluid">
+				<div class="row"> 
+					<div class="col-lg-8 col-sm-offset-2">
+						<h2>Read what your friends, neighbors and colleagues are saying about Chuck Zipkin...</h2>
+					</div>
+                </div><!-- row -->
+
+					<?
+						$i = 1;
+						$cols = 0;
+						$endorsements = file("endorsements.txt");
+						foreach ($endorsements as $en){
+							if ($cols == 0){
+								echo '<div class="names col-sm-2"></div>';
+								$cols++;
+							}
+							
+							if ($i == 1)
+								echo '<div class="names col-sm-4">';
+							
+							echo $en . "<br>";
+							
+							if ($i == 40){
+								echo '</div><!-- names -->';
+								$i = 1;
+								$cols++;
+								if ($cols == 3)
+									$cols = 0;								
+								
+							} else {
+								$i++;
+							}
+						}
+						if ($i != 1)
+							echo '</div><!-- names lt5 -->';
+					?>
+
+			</div><!-- container-fluid -->
+		</div><!-- download section -->
+	</section>
 
     <!-- Footer -->
     <footer>
