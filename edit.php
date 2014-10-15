@@ -6,9 +6,9 @@
 	if (!empty($_POST['password'])){
 		$hash = hash('ripemd160', $_POST['password']);
 		if ($hash == $PW){
-			file_put_contents('sponsors.txt', $_POST['sponsors']);
-			file_put_contents('endorsements.txt', $_POST['endorsements']);
-			//header("Location: edit.php");
+			file_put_contents('sponsors.txt', $_POST['sss']);
+			file_put_contents('endorsements.txt', $_POST['eee']);
+			header("Location: edit.php");
 		}	
 	}
 
@@ -21,10 +21,10 @@
 <body>
 <form action="edit.php" method="POST">
 	<h1> SPONSORS: </H1>
-	<textarea style="width:1000px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
+	<textarea style="width:1000px;height:300px;" name="sss"><?= $sponsors ?></textarea>
 	<br>
 	<H1> ENDORSEMENTS: </H1>
-	<textarea style="width:1000px;height:300px;" name="endorsements"><?= $endorsements ?></textarea>
+	<textarea style="width:1000px;height:300px;" name="eee"><?= $endorsements ?></textarea>
 	<br>
 	Password: 
 	<input type="password" name="password">
