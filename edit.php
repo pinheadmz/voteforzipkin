@@ -1,13 +1,13 @@
 <?
 	$PW = '59dcd687a2ce676d99e7624545efd5ed797dd2ec';
 	$sponsors = file_get_contents('sponsors.txt');
-	$endorsements = file_get_contents('endorsements.txt');
+	//$endorsements = file_get_contents('endorsements.txt');
 	
 	if (!empty($_POST['password'])){
 		$hash = hash('ripemd160', $_POST['password']);
 		if ($hash == $PW){
 			file_put_contents('sponsors.txt', $_POST['sss']);
-			file_put_contents('endorsements.txt', $_POST['eee']);
+			//file_put_contents('endorsements.txt', $_POST['eee']);
 			header("Location: edit.php");
 		}	
 	}
