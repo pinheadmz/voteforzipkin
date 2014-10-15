@@ -8,7 +8,7 @@
 		if ($hash == $PW){
 			file_put_contents('sponsors.txt', $_POST['sponsors']);
 			file_put_contents('endorsements.txt', $_POST['endorsements']);
-			header("Location: edit.php");
+			//header("Location: edit.php");
 		}	
 	}
 
