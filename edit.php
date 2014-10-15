@@ -1,7 +1,16 @@
 <?
 	$PW = '59dcd687a2ce676d99e7624545efd5ed797dd2ec';
-	$sponsors = file_get_contents('sponsors.txt');
-	$endorsements = file_get_contents('endorsements.txt');
+	//$sponsors = file_get_contents('sponsors.txt');
+	//$endorsements = file_get_contents('endorsements.txt');
+	
+	$s = fopen('sponsors.txt', 'r');
+	$sponsors = fread($s, filesize($s));
+	fclose($s);
+	
+	$e = fopen('endorsements.txt', 'r');
+	$endorsements = fread($e, filesize($e));
+	fclose($e);
+	
 	
 	if (!empty($_POST['password'])){
 		$hash = hash('ripemd160', $_POST['password']);
