@@ -1,7 +1,7 @@
 <?
 	$PW = '59dcd687a2ce676d99e7624545efd5ed797dd2ec';
 	$sponsors = file_get_contents('sponsors.txt');
-	$e = file_get_contents('e.txt');
+	//$e = file_get_contents('e.txt');
 	
 	if (!empty($_POST['password'])){
 		$hash = hash('ripemd160', $_POST['password']);
