@@ -13,6 +13,12 @@
 	}
 
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Edit VoteForZipkin.com</title>
+</head>
+<body>
 <form action="edit.php" method="POST">
 	<h1> SPONSORS: </H1>
 	<textarea style="width:1000px;height:300px;" name="sponsors"><?= $sponsors ?></textarea>
@@ -25,3 +31,5 @@
 	<br>
 	<input type="submit">
 </form>
+</body>
+</html>
