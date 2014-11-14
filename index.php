@@ -79,9 +79,6 @@
                         <a class="page-scroll" href="#platform">Platform</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#support">Support</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#endorsements">Endorsements</a>
                     </li>
                 </ul>
@@ -161,87 +158,6 @@ This election is about the continued operation of an outstanding hospital that p
         </div>
     </section>
 
-    <!-- Support Section -->
-    <section id="support" class="container-fluid content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Support Chuck Zipkin <br>for Hospital Board</h2>
-                <p>Yes, I want to support Chuck Zipkin for Hospital Board!<br>Two ways to donate to the campaign:</p>
-			</div>
-		</div>
-		 <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-            	<div class="donate">
-					PayPal:<br>
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="MV9YR5WBJWXCG">
-					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-					</form>
-				</div>
-            	<? /* 
-            	<div class="donate">
-					Bitcoin:<br>
-					<a class="coinbase-button" data-code="39ee6c12d2eb82af571b36d18cc975f5" data-button-style="donation_large" href="https://coinbase.com/checkouts/39ee6c12d2eb82af571b36d18cc975f5">Donate Bitcoins</a>
-					<script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
-				</div>
-            	*/ ?>
-            	<div class="donate">
-					 Mail a check:<br>
-					 <a href="checkform.html" target="_blank"><br>Click here for mail-in form</a>
-				</div>
-			</div>           
-		</div>
-		<div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-            	<br>
-           		<p>For more information on the Committee to Elect Chuck Zipkin, please submit the form below:</p>
-            
-				<form id="form" role="form">
-					<div class="form-group">
-						<label for="name">Full Name</label>
-						<input type="text" class="form-control" id="name" placeholder="Enter First and Last Name">
-					</div>
-					<div class="form-group">
-						<label for="address">Address / City / State / Zipcode</label>
-						<input type="text" class="form-control" id="address" placeholder="Enter Full Address">
-					</div>
-					<div class="form-group">
-						<label for="email">Email Address</label>
-						<input type="email" class="form-control" id="email" placeholder="Enter Email Address">
-					</div>
-					<div class="form-group">
-						<label for="phone">Phone Number</label>
-						<input type="tel" class="form-control" id="phone" placeholder="Enter Phone Number">
-					</div>					
-					<div class="form-group">
-						<label for="message">Include a short message (optional)</label>
-						<input type="text" class="form-control" id="message" placeholder="Enter a short message">
-					</div>
-					<div class="checkbox">
-						<label>
-						<input id="sign" type="checkbox"> Yes! I want a Zipkin for Hospital Board sign for my property 
-						</label>
-					</div>
-					
-					<button type="submit" class="btn btn-default">Submit</button>
-				</form>
-				<div id="success"><p>Thank you for your support!</p></div>
-				<div id="validation"><p>Please make sure you have entered your name and email address correctly</p></div>
-				<br>
-				<p>Contact <a href="mailto:chuckzipkin@gmail.com">ChuckZipkin@gmail.com</a> to add your name to his endorsement list<br>and to learn about other ways you can support his campaign.</p>
-				<div style="display:inline-block">
-					<p style="text-align:left">
-					<img src="i/crzlake.jpg" style="float:left;width:200px;margin-right:10px;">
-					Committee to Elect Chuck Zipkin <br>
-					P.O. Box 867 <br>
-					Soda Springs, CA 95728 
-					</p>
-				</div>
-            </div>
-        </div>
-    </section>
 
   <!-- Platform Section -->
     <section id="endorsements" class="content-section text-left">
